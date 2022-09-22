@@ -1,0 +1,11 @@
+.cart-button-header-navbar{
+    background-color: rgb(87, 18, 18);
+    color: white;
+    border: 0px;
+    border-radius: 30px;
+    width: 170px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
