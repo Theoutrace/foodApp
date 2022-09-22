@@ -1,3 +1,12 @@
+looks like
+Header
+![foodapp](https://user-images.githubusercontent.com/103827746/191867408-18e9280c-9aed-44bd-b2d9-f9757a9a23b8.JPG)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
